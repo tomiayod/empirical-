@@ -1,0 +1,28 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,SCA,SCA,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,GCA,GCA,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,Unnamed: 23_level_0
+Season,Age,Squad,Country,Comp,LgRank,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,TO,Sh,Fld,Def,Matches
+2012-2013,20,Basel,ch SUI,1. Super Lg,1st,16.0,,,,,,,,,,,,,,,,,Matches
+2013-2014,21,Basel,ch SUI,1. Super Lg,1st,12.8,,,,,,,,,,,,,,,,,Matches
+2013-2014,21,Chelsea,eng ENG,1. Premier League,3rd,5.6,,,,,,,,,,,,,,,,,Matches
+2014-2015,22,Chelsea,eng ENG,1. Premier League,1st,0.4,,,,,,,,,,,,,,,,,Matches
+2014-2015,22,Fiorentina,it ITA,1. Serie A,4th,10.1,,,,,,,,,,,,,,,,,Matches
+2015-2016,23,Roma,it ITA,1. Serie A,3rd,30.3,,,,,,,,,,,,,,,,,Matches
+2016-2017,24,Roma,it ITA,1. Serie A,2nd,27.5,,,,,,,,,,,,,,,,,Matches
+2017-2018,25,Liverpool,eng ENG,1. Premier League,4th,32.3,161,4.98,103,12,27,9,9,1,33,1.02,16,1,14,1,1,0,Matches
+2018-2019,26,Liverpool,eng ENG,1. Premier League,2nd,36.1,160,4.43,104,4,26,12,14,0,21,0.58,8,1,4,3,5,0,Matches
+2019-2020,27,Liverpool,eng ENG,1. Premier League,1st,32.0,136,4.26,94,6,17,13,5,1,15,0.47,9,2,2,1,1,0,Matches
+2020-2021,28,Liverpool,eng ENG,1. Premier League,3rd,34.2,134,3.92,104,1,7,13,7,2,16,0.47,12,0,0,2,2,0,Matches
+2021-2022,29,Liverpool,eng ENG,1. Premier League,2nd,30.7,141,4.59,104,0,17,18,2,0,25,0.81,17,0,5,2,1,0,Matches
+2022-2023,30,Liverpool,eng ENG,1. Premier League,5th,36.6,140,3.83,106,2,12,12,6,2,24,0.66,17,1,0,2,3,1,Matches
+2023-2024,31,Liverpool,eng ENG,1. Premier League,3rd,28.2,139,4.94,103,2,7,21,5,1,20,0.71,14,0,2,3,1,0,Matches
+2024-2025,32,Liverpool,eng ENG,1. Premier League,1st,32.5,144,4.44,105,1,19,13,4,2,24,0.74,18,0,4,2,0,0,Matches
+13 Seasons,13 Seasons,5 Clubs,,3 Leagues,,365.0,1155,4.40,823,28,132,111,52,9,178,0.68,111,5,31,16,14,1,
+,,,Country,Comp,LgRank,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,TO,Sh,Fld,Def,Matches
+Liverpool (8 Seasons),Liverpool (8 Seasons),Liverpool (8 Seasons),,1 League,,262.4,1155,4.40,823,28,132,111,52,9,178,0.68,111,5,31,16,14,1,
+Roma (2 Seasons),Roma (2 Seasons),Roma (2 Seasons),,1 League,,57.7,,,,,,,,,,,,,,,,,
+Basel (2 Seasons),Basel (2 Seasons),Basel (2 Seasons),,1 League,,28.8,,,,,,,,,,,,,,,,,
+Chelsea (2 Seasons),Chelsea (2 Seasons),Chelsea (2 Seasons),,1 League,,5.9,,,,,,,,,,,,,,,,,
+Fiorentina (1 Season),Fiorentina (1 Season),Fiorentina (1 Season),,1 League,,10.1,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Premier League (10 Seasons),Premier League (10 Seasons),Premier League (10 Seasons),,,,268.4,1155,4.40,823,28,132,111,52,9,178,0.68,111,5,31,16,14,1,
+Serie A (3 Seasons),Serie A (3 Seasons),Serie A (3 Seasons),,,,67.8,,,,,,,,,,,,,,,,,
+Super Lg (2 Seasons),Super Lg (2 Seasons),Super Lg (2 Seasons),,,,28.8,,,,,,,,,,,,,,,,,

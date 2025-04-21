@@ -1,0 +1,28 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 35_level_0
+Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+2012-2013,20,Basel,ch SUI,1. Super Lg,1st,29,12,1441,16.0,5,4,9,,,,0,0,,,,,,,,0.31,0.25,0.56,,,,,,,,Matches
+2013-2014,21,Basel,ch SUI,1. Super Lg,1st,18,12,1149,12.8,4,3,7,4,0,0,1,0,,,,,,,,0.31,0.23,0.55,0.31,0.55,,,,,,Matches
+2013-2014,21,Chelsea,eng ENG,1. Premier League,3rd,10,6,501,5.6,2,1,3,2,0,0,1,0,,,,,,,,0.36,0.18,0.54,0.36,0.54,,,,,,Matches
+2014-2015,22,Chelsea,eng ENG,1. Premier League,1st,3,0,33,0.4,0,0,0,0,0,0,0,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+2014-2015,22,Fiorentina,it ITA,1. Serie A,4th,16,10,908,10.1,6,3,9,6,0,0,0,0,,,,,,,,0.59,0.30,0.89,0.59,0.89,,,,,,Matches
+2015-2016,23,Roma,it ITA,1. Serie A,3rd,34,32,2723,30.3,14,6,20,14,0,0,3,1,,,,,,,,0.46,0.20,0.66,0.46,0.66,,,,,,Matches
+2016-2017,24,Roma,it ITA,1. Serie A,2nd,31,29,2473,27.5,15,11,26,15,0,0,2,0,,,,,,,,0.55,0.40,0.95,0.55,0.95,,,,,,Matches
+2017-2018,25,Liverpool,eng ENG,1. Premier League,4th,36,34,2907,32.3,32,10,42,31,1,2,1,0,24.1,22.6,7.5,30.1,95,97,393,0.99,0.31,1.30,0.96,1.27,0.75,0.23,0.98,0.70,0.93,Matches
+2018-2019,26,Liverpool,eng ENG,1. Premier League,2nd,38,37,3250,36.1,22,8,30,19,3,3,1,0,20.2,17.9,9.4,27.2,131,127,429,0.61,0.22,0.83,0.53,0.75,0.56,0.26,0.82,0.49,0.75,Matches
+2019-2020,27,Liverpool,eng ENG,1. Premier League,1st,34,33,2876,32.0,19,10,29,16,3,3,1,0,19.0,16.6,7.8,24.5,105,91,347,0.59,0.31,0.91,0.50,0.81,0.59,0.25,0.84,0.52,0.77,Matches
+2020-2021,28,Liverpool,eng ENG,1. Premier League,3rd,37,34,3078,34.2,22,5,27,16,6,6,0,0,19.3,14.6,6.2,20.8,111,136,396,0.64,0.15,0.79,0.47,0.61,0.56,0.18,0.75,0.43,0.61,Matches
+2021-2022,29,Liverpool,eng ENG,1. Premier League,2nd,35,30,2762,30.7,23,13,36,18,5,6,1,0,22.7,17.8,10.0,27.8,125,122,451,0.75,0.42,1.17,0.59,1.01,0.74,0.33,1.07,0.58,0.91,Matches
+2022-2023,30,Liverpool,eng ENG,1. Premier League,5th,38,37,3290,36.6,19,12,31,17,2,4,2,0,21.6,18.5,7.2,25.7,120,149,421,0.52,0.33,0.85,0.47,0.79,0.59,0.20,0.79,0.51,0.70,Matches
+2023-2024,31,Liverpool,eng ENG,1. Premier League,3rd,32,28,2534,28.2,18,10,28,13,5,7,2,0,21.2,15.5,11.8,27.3,98,147,341,0.64,0.36,0.99,0.46,0.82,0.75,0.42,1.17,0.55,0.97,Matches
+2024-2025,32,Liverpool,eng ENG,1. Premier League,1st,33,33,2921,32.5,27,18,45,18,9,9,1,0,23.7,16.7,12.1,28.8,138,127,407,0.83,0.55,1.39,0.55,1.11,0.73,0.37,1.10,0.51,0.89,Matches
+13 Seasons,13 Seasons,5 Clubs,,3 Leagues,,424,367,32846,365.0,228,114,342,189,34,40,16,1,171.9,140.1,72.0,212.2,923,996,3185,0.62,0.31,0.94,0.54,0.86,0.65,0.27,0.93,0.53,0.81,
+,,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Liverpool (8 Seasons),Liverpool (8 Seasons),Liverpool (8 Seasons),,1 League,,283,266,23618,262.4,182,86,268,148,34,40,9,0,171.9,140.1,72.0,212.2,923,996,3185,0.69,0.33,1.02,0.56,0.89,0.65,0.27,0.93,0.53,0.81,
+Roma (2 Seasons),Roma (2 Seasons),Roma (2 Seasons),,1 League,,65,61,5196,57.7,29,17,46,29,0,0,5,1,,,,,,,,0.50,0.29,0.80,0.50,0.80,,,,,,
+Basel (2 Seasons),Basel (2 Seasons),Basel (2 Seasons),,1 League,,47,24,2590,28.8,9,7,16,4,0,0,1,0,,,,,,,,0.31,0.24,0.56,0.31,0.55,,,,,,
+Chelsea (2 Seasons),Chelsea (2 Seasons),Chelsea (2 Seasons),,1 League,,13,6,534,5.9,2,1,3,2,0,0,1,0,,,,,,,,0.34,0.17,0.51,0.34,0.51,,,,,,
+Fiorentina (1 Season),Fiorentina (1 Season),Fiorentina (1 Season),,1 League,,16,10,908,10.1,6,3,9,6,0,0,0,0,,,,,,,,0.59,0.30,0.89,0.59,0.89,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Premier League (10 Seasons),Premier League (10 Seasons),Premier League (10 Seasons),,,,296,272,24152,268.4,184,87,271,150,34,40,10,0,171.9,140.1,72.0,212.2,923,996,3185,0.69,0.32,1.01,0.56,0.88,0.65,0.27,0.93,0.53,0.81,
+Serie A (3 Seasons),Serie A (3 Seasons),Serie A (3 Seasons),,,,81,71,6104,67.8,35,20,55,35,0,0,5,1,,,,,,,,0.52,0.29,0.81,0.52,0.81,,,,,,
+Super Lg (2 Seasons),Super Lg (2 Seasons),Super Lg (2 Seasons),,,,47,24,2590,28.8,9,7,16,4,0,0,1,0,,,,,,,,0.31,0.24,0.56,0.31,0.55,,,,,,

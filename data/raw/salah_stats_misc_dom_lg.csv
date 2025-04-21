@@ -1,0 +1,28 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,Unnamed: 23_level_0
+Season,Age,Squad,Country,Comp,LgRank,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+2012-2013,20,Basel,ch SUI,1. Super Lg,1st,16.0,0,0,,,,,,,,,,,,,,,Matches
+2013-2014,21,Basel,ch SUI,1. Super Lg,1st,12.8,1,0,,,,,,,,,,,,,,,Matches
+2013-2014,21,Chelsea,eng ENG,1. Premier League,3rd,5.6,1,0,,3,,,,,,,,,,,,,Matches
+2014-2015,22,Chelsea,eng ENG,1. Premier League,1st,0.4,0,0,,1,,,,,,,,,,,,,Matches
+2014-2015,22,Fiorentina,it ITA,1. Serie A,4th,10.1,0,0,,11,,,,,,,,,,,,,Matches
+2015-2016,23,Roma,it ITA,1. Serie A,3rd,30.3,3,1,1,22,,,,,,,,,,,,,Matches
+2016-2017,24,Roma,it ITA,1. Serie A,2nd,27.5,2,0,0,27,26,25,79,13,24,3,0,0,,,,,Matches
+2017-2018,25,Liverpool,eng ENG,1. Premier League,4th,32.3,1,0,0,16,29,17,86,5,6,1,0,0,122,13,35,27.1,Matches
+2018-2019,26,Liverpool,eng ENG,1. Premier League,2nd,36.1,1,0,0,25,32,27,57,5,9,5,0,0,121,10,60,14.3,Matches
+2019-2020,27,Liverpool,eng ENG,1. Premier League,1st,32.0,1,0,0,17,18,20,45,8,6,1,0,0,85,15,45,25.0,Matches
+2020-2021,28,Liverpool,eng ENG,1. Premier League,3rd,34.2,0,0,0,22,22,13,29,1,9,2,0,0,93,18,42,30.0,Matches
+2021-2022,29,Liverpool,eng ENG,1. Premier League,2nd,30.7,1,0,0,12,23,12,41,6,8,2,0,0,86,7,33,17.5,Matches
+2022-2023,30,Liverpool,eng ENG,1. Premier League,5th,36.6,2,0,0,20,33,22,38,6,12,0,0,0,100,8,30,21.1,Matches
+2023-2024,31,Liverpool,eng ENG,1. Premier League,3rd,28.2,2,0,0,12,26,17,41,2,11,1,0,0,84,6,14,30.0,Matches
+2024-2025,32,Liverpool,eng ENG,1. Premier League,1st,32.5,1,0,0,22,33,15,64,7,11,0,0,0,90,9,12,42.9,Matches
+13 Seasons,13 Seasons,5 Clubs,,3 Leagues,,365.0,16,1,1,210,242,168,480,53,96,15,0,0,781,86,271,24.1,
+,,,Country,Comp,LgRank,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+Liverpool (8 Seasons),Liverpool (8 Seasons),Liverpool (8 Seasons),,1 League,,262.4,9,0,0,146,216,143,401,40,72,12,0,0,781,86,271,24.1,
+Roma (2 Seasons),Roma (2 Seasons),Roma (2 Seasons),,1 League,,57.7,5,1,1,49,26,25,79,13,24,3,0,0,,,,,
+Basel (2 Seasons),Basel (2 Seasons),Basel (2 Seasons),,1 League,,28.8,1,0,,,,,,,,,,,,,,,
+Chelsea (2 Seasons),Chelsea (2 Seasons),Chelsea (2 Seasons),,1 League,,5.9,1,0,,4,,,,,,,,,,,,,
+Fiorentina (1 Season),Fiorentina (1 Season),Fiorentina (1 Season),,1 League,,10.1,0,0,,11,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Premier League (10 Seasons),Premier League (10 Seasons),Premier League (10 Seasons),,,,268.4,10,0,0,150,216,143,401,40,72,12,0,0,781,86,271,24.1,
+Serie A (3 Seasons),Serie A (3 Seasons),Serie A (3 Seasons),,,,67.8,5,1,1,60,26,25,79,13,24,3,0,0,,,,,
+Super Lg (2 Seasons),Super Lg (2 Seasons),Super Lg (2 Seasons),,,,28.8,1,0,,,,,,,,,,,,,,,
