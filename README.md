@@ -2,7 +2,7 @@ Mohammed Salah Blog Project
 
 # Mohamed Salah Data Analysis Project
 
-This project scrapes and analyzes Mohamed Salah's football statistics from FBref.com to create a data-driven blog post.
+This project scrapes and analyses Mohamed Salah's football statistics from FBref.com to create a data-driven blog post.
 
 ## Replication Instructions
 
